@@ -1,6 +1,7 @@
 ### Howdy, I’m Vika (pronounced vee-kuh)
 
 ### I have a passion for all things computer science and engineering.
+- Bachelor of Computer Science
 - I am most interested in cybersecurity and robotics and/or automated programming. 
 - I am always looking for ways I can expand my skills.
 - I always accept challenges and try to come up with simple yet creative solutions.
